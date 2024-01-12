@@ -29,6 +29,8 @@ import javax.swing.JDesktopPane;
 
 import fetch_user.User;
 
+// Login Interface
+// Variable name format: [class][Usage]
 public class Login extends JFrame {
 
 	private static final long serialVersionUID = 1L;

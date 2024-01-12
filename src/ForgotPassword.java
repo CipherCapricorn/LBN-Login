@@ -19,6 +19,8 @@ import javax.swing.border.EmptyBorder;
 import fetch_user.User;
 import send_email.SendEmail;
 
+// Forgot password interface
+// Variable name format: [class][Usage]
 public class ForgotPassword extends JFrame {
 	
 	private static final long serialVersionUID = 1L;

@@ -9,6 +9,7 @@ import org.json.simple.parser.*;
 
 public class User {
 	
+	// Fields that a User property should have
 	public String userName;
 	public String realName;
 	public String country;

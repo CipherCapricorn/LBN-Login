@@ -20,6 +20,8 @@ import javax.swing.border.EmptyBorder;
 import fetch_user.User;
 import send_email.SendEmail;
 
+// Register interface
+// Variable name format: [class][Usage]
 public class Register extends JFrame {
 
 	private static final long serialVersionUID = 1L;
